@@ -164,19 +164,9 @@
               "icon": "lucide-list",
               "title": "1-20 的大纲"
             }
-          },
-          {
-            "id": "4da982482d326c04",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f0e2dfdc0007385",
+  "active": "eb961a085ef76ee6",
   "lastOpenFiles": [
     "vue/vue2/1-20.md",
     "vue/vue3",
