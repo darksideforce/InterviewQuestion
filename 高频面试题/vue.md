@@ -1,0 +1,37 @@
+- Vue 2 和 Vue 3 的响应式区别
+- `Proxy` 为什么比 `Object.defineProperty` 更适合做响应式
+	- proxy是全方位代理，而vue2的方式是劫持，只能重写已有的属性，且无法对新增的属性进行监听
+	- proxy是惰性监听，没事用到的话就不会被触发，而vue2会便利
+- `ref` 和 `reactive` 的区别
+	- ref适用于基础数据类型，因为proxy无法代理基本数据类型，所以使用了一层对象来进行包装
+	- reactive使用于引用数据类型，直接修改reactive不会失去响应是
+- `computed` 和 `watch` 的区别
+	- computed一般用于推断出值，必须有返回值，且具备缓存，必须是同步函数
+	- watch一般用于监听数据变化，进行副作用，不具备缓存，可以是异步
+- `watchEffect` 的特点
+	- 会立即执行
+	- 会自动追踪内部用到的所有依赖
+	- 只关注与副作用自身
+- Vue 组件生命周期
+	- beforecreated(vue3被setup取代)
+	- created(vue3被setup取代)
+	- beforemounted
+	- mounted
+	- beforeupdated
+	- updated
+	- beforedestoryed
+	- destoryed
+- `nextTick` 的原理和使用场景
+- 虚拟 DOM 和 Diff
+- `key` 的作用
+- Vue 模板编译过程
+- 组件通信方式
+- `provide/inject` 的适用场景
+- 插槽和作用域插槽
+- `keep-alive`
+- 异步组件和 `Suspense`
+- Vue 组件为什么不能直接修改 `props`
+	- 保证数据流向的可预测性
+	- 明确所有权，谁的数据谁来改动
+	- 防止本地修改被覆盖
+- Vue 中列表为什么不建议使用 index 作为 key

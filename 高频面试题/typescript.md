@@ -1,0 +1,10 @@
+- `interface` 和 `type`
+- 泛型
+- 联合类型和交叉类型
+- 类型收窄
+- `keyof`、`typeof`、`infer`
+- 工具类型：`Partial`、`Pick`、`Omit`、`Record`
+- `any`、`unknown`、`never`
+- 类型声明文件
+- 如何给 Axios、组件和接口响应建模
+- 如何避免类型体操影响可读性

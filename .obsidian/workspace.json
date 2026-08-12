@@ -11,14 +11,10 @@
             "id": "6f0e2dfdc0007385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/vue2/1-20.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1-20"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/vue2/1-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1-20 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/vue2/1-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1-20 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/vue2/1-20.md",
+                "file": "高频面试题/nodejs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1-20 的大纲"
+              "title": "nodejs 的大纲"
             }
           }
         ],
@@ -186,15 +180,41 @@
   },
   "active": "eb961a085ef76ee6",
   "lastOpenFiles": [
-    "vue/vue2/1-20.md",
-    "vue/vue3",
-    "vue/vue2",
-    "未命名.canvas",
+    "高频面试题/高频面试题.md",
+    "高频面试题/通用.md",
+    "高频面试题/浏览器和网络.md",
+    "高频面试题/性能优化.md",
+    "高频面试题/工程化构建.md",
+    "高频面试题/场景题.md",
+    "高频面试题/傲基.md",
+    "高频面试题/vue.md",
+    "高频面试题/typescript.md",
+    "高频面试题/react相关.md",
+    "高频面试题/nodejs.md",
+    "高频面试题/nextjs和seo.md",
+    "高频面试题/js.md",
+    "高频面试题/1-20.md",
+    "高频面试题",
+    "手写题/2.throttle.md",
+    "手写题/3.debounce.md",
+    "手写题/1.promise.md",
+    "手写题",
+    "场景题/奥德赛后台.md",
+    "场景题/优化相关.md",
+    "场景题/erp.md",
+    "场景题/ai.md",
     "场景题",
-    "js",
-    "html、css",
+    "vue/vue3/1-20.md",
+    "vue/vue3",
+    "react/1-20.md.md",
     "react",
-    "vue",
-    "欢迎.md"
+    "js/基础.md",
+    "js",
+    "vue/vue2/1-20.md",
+    "高频面试题/vue",
+    "高频面试题/index.ts",
+    "vue/vue3/1-20",
+    "vue/vue2",
+    "未命名.canvas"
   ]
 }
