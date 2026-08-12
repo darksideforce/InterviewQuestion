@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "755ccb775e1c8819",
+        "id": "4f9368c8ca478e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "f4a7f2515a34cf40",
+            "id": "da86e028914c922c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "vue/vue2/1-20.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1-20"
             }
           }
         ]
@@ -96,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "9f6d29a099fae5f1",
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "vue/vue2/1-20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "vue/vue2/1-20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "vue/vue2/1-20.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,6 +169,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd80ec075d96b92f",
+  "active": "da86e028914c922c",
   "lastOpenFiles": []
 }
